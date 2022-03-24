@@ -1,0 +1,9 @@
+1. - Variables: Las variables son como una caja. Una caja donde se puede almacenar un dato y darle un nombre, ese dato guardado en la "caja" lo puedo reusar en un futuro.
+
+- String: Un string es simplemente un espacio donde hay un texto y debe ir siempre entre comillas.
+
+- Funciones: Las funciones son como un tipo de instruccion que nosotros le damos a la computadora. Le damos argumentos y le indicamos que debe hacer, esto nos devolvera algo como un valor (return).
+
+- Declaraciones 'if': La declaracion 'if' viene del "control flow", es una palabra clave que lo que hace es verificar si algo es verdadero, si lo es, se ejecuta la instruccion que codeamos, sino agarra otra instruccion.
+
+- Booleans values: Los valores booleanos son un tipo de datos, el cual solo 2 posibles valores, true (verdadero) o false (falso).
