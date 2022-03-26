@@ -1,0 +1,7 @@
+1. 'for': Un bucle for basicamente repite una determinada instruccion n las veces que le indiquemos. Este bucle esta conformado por 4 elementos, la expresion inicial que es una variable y es sobre lo que se repetira el ciclo. Luego viene la expresion condicional que si da verdadero el bucle se ejecuta, y si da falso el "for" termina. Por ultimo esta el incremento de la variable que sirve para incrementar la variable contador. Estos 3 elementos van entre parentesis, por fuera esta la setencia que se ejecutara en el bucle.
+
+'&&': Es un operador que significa "and" y lo que hace es evaluar dos expresiones y devolver verdadero si ambas son 'true'. Devolvera 'false' si uno o ambos es falso.
+
+'||': Es un operador que significa "or" y determina si una o ambas de las expresiones es 'true'. Devuelve 'false' si ambas expresiones son falsas.
+
+'!': Es un operador que significa "not" y devuelve el valor booleano opuesto de lo que se le pasa. 
